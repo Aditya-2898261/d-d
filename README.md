@@ -1,2 +1,2 @@
 # d-d
-demo of git and gitthubssss
+demo of git and gitthubssss class.
